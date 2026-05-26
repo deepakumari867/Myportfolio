@@ -1,17 +1,17 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
+  name: "Deepa",
+  profile:'/image/profile.jpg',
+  designation: "Graphic Designer",
+  description: "My name is Deepa, and I am a creative and passionate Graphic Designer with a strong interest in creating modern and visually appealing designs. I enjoy transforming ideas into meaningful visuals through social media creatives, branding, UI concepts, and digital content. Skilled in tools like Figma, Adobe Photoshop, and Canva, I focus on designing clean, aesthetic, and user-friendly experiences that leave a lasting impression and connect with people effectively.",
+  email: 'deepakumari2301@gmail.com' ,
+  phone: '+91 9835313218',
+  address: 'Chandigarh, Punjab, India',
+  github: 'https://github.com/deepakumari867',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+  linkedIn: 'https://www.linkedin.com/in/deepa-kumari-6ab9ab2a6/',
   twitter: 'https://twitter.com/said7388',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/said3812/",
   devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  resume: "https://drive.google.com/drive/folders/1d7rE5rHbsLwwhieJDQa5O6KESTijtjBm?usp=sharing" 
 }
